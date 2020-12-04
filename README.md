@@ -4,4 +4,4 @@
 2. **Fecha:** Viernes 4 de diciembre de 2020
 3. **Resumen del Ejercicio:** El objetivo es crear una web para un Zoo con Layouts, CSS y JavaScript en ASP.NET Core MVC
 4. **Dificultad o problemas presentados y como se resolvieron:** Todo bien hasta que en el task 4 modifico el package.json y ahi no me crea la carpeta npm 
-con query-validation and jquery-validation-unobtrusive. Solución: No seestaba instalando correctamente el npm, debía dar enter en el cmd e indicar "D:" , el directorio donde se ubica el proyecto.
+con query-validation and jquery-validation-unobtrusive. Solución: No se estaba instalando correctamente el npm, debía dar enter en el cmd e indicar "D:" , el directorio donde se ubica el proyecto.
